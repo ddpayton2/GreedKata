@@ -1,0 +1,8 @@
+C:\Users\paytod\source\repos\GreedKata\GreedKata\bin\Debug\GreedKata.dll
+C:\Users\paytod\source\repos\GreedKata\GreedKata\bin\Debug\GreedKata.pdb
+C:\Users\paytod\source\repos\GreedKata\GreedKata\bin\Debug\nunit.framework.dll
+C:\Users\paytod\source\repos\GreedKata\GreedKata\bin\Debug\nunit.framework.xml
+C:\Users\paytod\source\repos\GreedKata\GreedKata\obj\Debug\GreedKata.csprojAssemblyReference.cache
+C:\Users\paytod\source\repos\GreedKata\GreedKata\obj\Debug\GreedKata.csproj.CopyComplete
+C:\Users\paytod\source\repos\GreedKata\GreedKata\obj\Debug\GreedKata.dll
+C:\Users\paytod\source\repos\GreedKata\GreedKata\obj\Debug\GreedKata.pdb
